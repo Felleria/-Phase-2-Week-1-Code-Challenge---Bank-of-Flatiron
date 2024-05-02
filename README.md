@@ -4,8 +4,6 @@
 
 #### By Felleria Nang'oma
 
-## Live Demo
-[Check The Project Right Here](https://phase-2-week-1-code-challenge-bank-of-flatiron-blush.vercel.app/)
 
 ## Description
 - The Transaction Management System is a web app for tracking financial transactions. It offers features like viewing transactions in a table, adding new ones, and filtering by keywords. Users can also sort transactions alphabetically by category or description.
