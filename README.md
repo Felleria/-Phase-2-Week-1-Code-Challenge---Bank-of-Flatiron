@@ -2,8 +2,6 @@
 
 #### Date, 28/04/2024
 
-#### By Felleria Nang'oma
-
 
 ## Description
 - The Transaction Management System is a web app for tracking financial transactions. It offers features like viewing transactions in a table, adding new ones, and filtering by keywords. Users can also sort transactions alphabetically by category or description.
